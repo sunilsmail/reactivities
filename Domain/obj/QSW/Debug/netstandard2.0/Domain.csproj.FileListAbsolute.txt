@@ -1,0 +1,8 @@
+C:\Sunil_Examples\dotnetcore\reactivities\Domain\bin\QSW\Debug\netstandard2.0\Domain.deps.json
+C:\Sunil_Examples\dotnetcore\reactivities\Domain\bin\QSW\Debug\netstandard2.0\Domain.dll
+C:\Sunil_Examples\dotnetcore\reactivities\Domain\bin\QSW\Debug\netstandard2.0\Domain.pdb
+C:\Sunil_Examples\dotnetcore\reactivities\Domain\obj\QSW\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Sunil_Examples\dotnetcore\reactivities\Domain\obj\QSW\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Sunil_Examples\dotnetcore\reactivities\Domain\obj\QSW\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Sunil_Examples\dotnetcore\reactivities\Domain\obj\QSW\Debug\netstandard2.0\Domain.dll
+C:\Sunil_Examples\dotnetcore\reactivities\Domain\obj\QSW\Debug\netstandard2.0\Domain.pdb
